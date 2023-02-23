@@ -1,5 +1,5 @@
 {
-    "name": "ngonam22/pub-sub-helper",
+    "name": "ochikala/pub-sub-helper",
     "description": "PHP Independent library to interact with queue more easily",
     "type": "library",
     "require": {
@@ -19,8 +19,8 @@
     "license": "GNU GPL 3.0",
     "authors": [
         {
-            "name": "J Ngo",
-            "email": "ngonam22@gmail.com"
+            "name": "ochikala",
+            "email": "lehoangthang87@gmail.com"
         }
     ],
     "repositories": [

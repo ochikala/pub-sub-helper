@@ -25,5 +25,6 @@
     ],
     "repositories": [
         { "type": "vcs", "url": "git@github.com:ngonam22/st-common-service.git" }
-    ]
+    ],
+    "minimum-stability": "dev",
 }
